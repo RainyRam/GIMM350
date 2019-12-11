@@ -38,6 +38,9 @@ for (int number = 1; number < 21; number++)
   if (number % 3 == 0)
   {
     sum = sum + number;
+      
+//make text appear when object is interacted with
+ 
   }
 }
 Console.WriteLine($"The sum is {sum}");
